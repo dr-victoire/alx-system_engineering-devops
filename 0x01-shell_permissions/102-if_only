@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty guilliaume hello
+sudo gulliaume chown betty hello
