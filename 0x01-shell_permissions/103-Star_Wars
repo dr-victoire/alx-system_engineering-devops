@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x star
+telnet towel.blinkenlights.nl
