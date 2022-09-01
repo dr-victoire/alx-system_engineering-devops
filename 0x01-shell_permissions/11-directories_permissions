@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --preserve-root ugo+x /tmp/
+find /tmp/ -type d -exec chmod ugo+x {} \;
