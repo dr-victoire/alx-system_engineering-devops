@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -m *js /tmp/
+ls -l | rm *js
